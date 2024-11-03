@@ -13,7 +13,7 @@ import pages.LandingPage;
 import pages.NewsletterSubscriptionPage;
 import pages.RegisterPage;
 import util.Utilities;
-
+//Comment added to RegisterTest
 public class RegisterTest extends Base {
 	
 	public WebDriver driver;
