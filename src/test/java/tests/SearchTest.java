@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 import base.Base;
 import pages.LandingPage;
 import pages.SearchPage;
-
+//Comment added TO Search Test
 public class SearchTest extends Base {
 	
 	public WebDriver driver;
